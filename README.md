@@ -6,7 +6,7 @@
 
 | 主题 | 文档 | 说明 |
 |---|---|---|
-| 多 Agent 实践 | [AI 内阁：多 Agent 系统的治理层实践 v1.2](%E5%A4%9AAgent%E5%AE%9E%E8%B7%B5/%E5%A4%9Aagen%E7%B3%BB%E7%BB%9F%E5%AE%9E%E8%B7%B5.md) | 以“三省五部一台一卫一吏”为隐喻，整理多 Agent 系统的治理层、分权协作与审核链实践。 |
+| 多 Agent 实践 | [AI 内阁：多 Agent 系统的治理层实践 v1.2](%E5%A4%9AAgent%E5%AE%9E%E8%B7%B5/%E5%A4%9AAgent%E7%B3%BB%E7%BB%9F%E5%AE%9E%E8%B7%B5.md) | 以“三省五部一台一卫一吏”为隐喻，整理多 Agent 系统的治理层、分权协作与审核链实践。 |
 
 ## 目录结构
 
@@ -14,7 +14,7 @@
 X-share/
 ├── README.md
 └── 多Agent实践/
-    ├── 多agen系统实践.md
+    ├── 多Agent系统实践.md
     └── assets/
         ├── architecture-overview.png
         └── cabinet-architecture.svg
