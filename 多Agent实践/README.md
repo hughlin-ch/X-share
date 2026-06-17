@@ -98,7 +98,7 @@ Demo 很酷，一上生产就崩。
 ## 架构总览
 
 <p align="center">
-  <img src="assets/cabinet-architecture.png" alt="AI 内阁部门分工图" width="100%">
+  <img src="assets/cabinet-architecture.svg" alt="AI 内阁部门分工图" width="100%">
 </p>
 
 <p align="center"><em>图 2：AI 内阁部门分工图。三省负责治理和流转，五部负责专业化执行，一台一卫一吏负责监督、直通和归档。</em></p>
